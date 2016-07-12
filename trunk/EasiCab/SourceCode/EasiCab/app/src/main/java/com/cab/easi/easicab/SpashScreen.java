@@ -14,12 +14,7 @@ public class SpashScreen extends ActionBarActivity {
         setContentView(R.layout.activity_spash_screen);
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_spash_screen, menu);
-        return true;
-    }
+   
 
 
 }
