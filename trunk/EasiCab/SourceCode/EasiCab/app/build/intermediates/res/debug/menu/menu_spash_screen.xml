@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/D:/AndroidStudioWorkplace/EasiPOC/EasiCab/app/src/main/res/menu/menu_spash_screen.xml -->
+<!-- From: file:/D:/SVN/EASi_App-POC/trunk/EasiCab/SourceCode/EasiCab/app/src/main/res/menu/menu_spash_screen.xml -->
