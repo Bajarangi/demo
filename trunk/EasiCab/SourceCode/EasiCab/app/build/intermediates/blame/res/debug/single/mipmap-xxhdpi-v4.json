@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\logo.png",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    }
+]

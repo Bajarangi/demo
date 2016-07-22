@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="115501329545064"
+    verifier="PARENT_CLASS_CHANGED" >
+
+    <task
+        name="javac"
+        duration="96" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="D:\EASi_SVN\EASi_App-POC\trunk\EasiCab\SourceCode\EasiCab\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="114304571894090" >
+        <artifact
+            location="D:\EASi_SVN\EASi_App-POC\trunk\EasiCab\SourceCode\EasiCab\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="115360402425886" >
+        <artifact
+            location="D:\EASi_SVN\EASi_App-POC\trunk\EasiCab\SourceCode\EasiCab\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\EASi_SVN\EASi_App-POC\trunk\EasiCab\SourceCode\EasiCab\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="115501329545064"
+        verifier="PARENT_CLASS_CHANGED" >
+        <artifact
+            location="D:\EASi_SVN\EASi_App-POC\trunk\EasiCab\SourceCode\EasiCab\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
