@@ -215,6 +215,14 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <!-- From: file:/D:/SVN/EASi_App-POC/trunk/EasiCab/SourceCode/EasiCab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Role_One">Admin</string>
+    <string name="Role_three">Employee</string>
+    <string name="Role_two">Cab Driver</string>
+    <string name="Submit">Submit</string>
+    <!-- From: file:/D:/SVN/EASi_App-POC/trunk/EasiCab/SourceCode/EasiCab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values/values.xml -->
+    <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
