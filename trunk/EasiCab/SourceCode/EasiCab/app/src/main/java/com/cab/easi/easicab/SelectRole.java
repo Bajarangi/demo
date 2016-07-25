@@ -4,6 +4,7 @@ package com.cab.easi.easicab;
  * Created by sunayak on 7/22/2016.
  */
 import android.app.Activity;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -33,7 +34,12 @@ public class SelectRole extends ActionBarActivity {
                 public void onClick(View v) {
                     int selectedId=radioRole.getCheckedRadioButtonId();
                     radioSelectedButton=(RadioButton)findViewById(selectedId);
-                    Toast.makeText(SelectRole.this,radioSelectedButton.getText(),Toast.LENGTH_SHORT).show();
+
+                    Intent intent = new Intent(SelectRole.this, RegisterActivity.class);
+                    intent.putExtra("selected_role" ,radioSelectedButton.getText().toString() );
+                    startActivity(intent);
+                    finish();
+                   // Toast.makeText(SelectRole.this,radioSelectedButton.getText(),Toast.LENGTH_SHORT).show();
                 }
             });
         }

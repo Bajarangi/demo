@@ -35,9 +35,9 @@ public class SplashScreen extends Activity {
         Thread timerThread = new Thread() {
             public void run() {
                 try {
-                    //Holding....in milleSecond
-                    sleep(5000);
-                } catch (InterruptedException e) {
+                    //Holding....in milliSecond
+                    sleep(1000/2);
+                }   catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
                     Intent intent = new Intent(SplashScreen.this, LoginActivity.class);
@@ -50,7 +50,6 @@ public class SplashScreen extends Activity {
     }
 
     private void StartAnimations() {
-
         Animation anim = AnimationUtils.loadAnimation(this, R.anim.translate);
         anim.reset();
         ImageView iv = (ImageView) findViewById(R.id.logo);
