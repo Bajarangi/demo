@@ -36,7 +36,7 @@ public class SplashScreen extends Activity {
             public void run() {
                 try {
                     //Holding....in milliSecond
-                    sleep(1000/2);
+                    sleep(5000);
                 }   catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
