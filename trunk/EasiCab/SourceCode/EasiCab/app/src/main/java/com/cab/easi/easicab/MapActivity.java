@@ -29,6 +29,13 @@ import java.util.List;
 
 /**
  * Created by sgangadh on 25-07-2016.
+ * @Added: Google Map API integrated with This project
+ * API details:
+ * Android Side Api: AIzaSyA_uc7PE5SY09XngqqJmMGueeJ506dbP5A
+ * Email Id: easi.cabbangaluru@gmail.com
+ * Password: easicab@123
+ *
+ *SHA1: 99:4E:75:DA:CD:9C:22:E0:4E:5E:42:5C:CE:1D:AE:19:5B:E2:62:76
  */
 public class MapActivity extends FragmentActivity {
 
