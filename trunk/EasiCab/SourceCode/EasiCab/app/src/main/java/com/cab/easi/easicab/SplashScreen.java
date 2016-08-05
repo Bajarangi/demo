@@ -5,8 +5,6 @@ package com.cab.easi.easicab;
  *
  * @Added: @Sharath on 7/22/2016.
  * Animation Added in Splashscreen Activity
- *
- *
  */
 import android.app.Activity;
 import android.content.Intent;

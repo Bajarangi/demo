@@ -18,6 +18,7 @@
             android:weightSum="1">
             <!-- Logo Start-->
             <ImageView
+                android:id="@+id/logoClick"
                 android:layout_width="match_parent"
                 android:layout_height="75dp"
                 android:layout_marginLeft="10dip"
