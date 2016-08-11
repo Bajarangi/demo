@@ -9,6 +9,7 @@
   <color name="app_textBig">#00FFFFFF</color>
   <color name="transparent_bg">#00000000</color>
   <color name="black">#000000</color>
+  <color name="app_white">#ffffff</color>
   <color name="app_yellow_background">#ECCC36</color>
   <color name="app_orange_background">#F29902</color>
   <color name="app_black">#0F2035</color>
