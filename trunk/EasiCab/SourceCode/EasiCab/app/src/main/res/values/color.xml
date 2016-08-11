@@ -5,7 +5,7 @@
   <color name="app_yellow">#f4d45b</color>
   <color name="app_boarder">#eeeeee</color>
   <color name="app_text">#FFFFFF</color>
-  <color name="app_text_grey">#00FFFFFF</color>
+  <color name="app_text_col">#0F2035</color>
   <color name="app_textBig">#00FFFFFF</color>
   <color name="transparent_bg">#00000000</color>
   <color name="black">#000000</color>
@@ -13,4 +13,7 @@
   <color name="app_yellow_background">#ECCC36</color>
   <color name="app_orange_background">#F29902</color>
   <color name="app_black">#0F2035</color>
+
+
+  <color name="application_background">#e8e8e7</color>
 </resources>

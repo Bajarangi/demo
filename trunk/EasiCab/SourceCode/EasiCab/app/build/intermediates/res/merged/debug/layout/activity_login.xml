@@ -3,7 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:fillViewport="true">
+    android:fillViewport="true"
+    android:background="@drawable/greybackground">
     <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -35,12 +36,12 @@
             android:layout_alignParentBottom="true">
 
             <!-- Link to Registration Screen -->
-            <TextView android:id="@+id/frgtPw"
+            <TextView android:id="@+id/link_to_register"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dip"
                 android:layout_marginBottom="20dip"
-                android:text="Forgot Password"
+                android:text="New to Easi? Register here"
                 android:gravity="center"
                 android:textSize="20dip"
                 android:textColor="#0b84aa"/>
@@ -55,40 +56,58 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dip"
+            android:layout_marginTop="80dp"
             android:layout_below="@id/header">
             <!--  Email Label -->
-            <TextView android:layout_width="fill_parent"
+           <!-- <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#372c24"
-                android:text="Email"/>
-            <EditText android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+
+                android:text="Email"/>-->
+            <EditText android:layout_width="300dp"
+                android:layout_height="60dp"
                 android:layout_marginTop="5dip"
                 android:layout_marginBottom="20dip"
-                android:singleLine="true"/>
+                android:background="#f3f3f3"
+                android:singleLine="true"
+                android:layout_gravity="center"
+                android:hint="Email"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:drawableLeft="@mipmap/user_login_icon"/>
             <!--  Password Label -->
-            <TextView android:layout_width="fill_parent"
+           <!-- <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#372c24"
-                android:text="Password"/>
-            <EditText android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+                android:text="Password"/>-->
+            <EditText android:layout_width="300dp"
+                android:layout_height="60dp"
                 android:layout_marginTop="5dip"
+                android:background="#f3f3f3"
                 android:singleLine="true"
+                android:hint="Password"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:drawableLeft="@mipmap/user_passwd_ico"
                 android:password="true"/>
             <!-- Login button -->
             <Button android:id="@+id/btnLogin"
-                android:layout_width="fill_parent"
+                android:layout_width="200dp"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dip"
-                android:text="Login"/>
+                android:layout_marginTop="50dip"
+                android:layout_gravity="center"
+                android:textColor="@color/app_white"
+                android:textSize="20sp"
+                android:background="@color/app_orange_background"
+                android:text="Submit"/>
             <!-- Link to Registration Screen -->
-            <TextView android:id="@+id/link_to_register"
+            <TextView android:id="@+id/frgtPw"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dip"
                 android:layout_marginBottom="40dip"
-                android:text="New to Easi? Register here"
+                android:text="Forgot Password"
                 android:gravity="center"
                 android:textSize="20dip"
                 android:textColor="#0b84aa"/>

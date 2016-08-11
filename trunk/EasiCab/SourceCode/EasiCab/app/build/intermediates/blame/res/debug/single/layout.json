@@ -40,12 +40,20 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_home.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\activity_main_home.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawer.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\activity_drawer.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -60,16 +68,20 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_drawerlisttem.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\layout_drawerlisttem.xml"
+    },
+    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
@@ -88,6 +100,10 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_navigationdrawer.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\layout_navigationdrawer.xml"
+    },
+    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
@@ -96,16 +112,16 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -120,12 +136,12 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spash_screen.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\layout\\activity_spash_screen.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -180,16 +196,16 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",

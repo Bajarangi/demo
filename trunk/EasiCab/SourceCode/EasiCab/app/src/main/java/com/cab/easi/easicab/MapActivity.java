@@ -1,6 +1,7 @@
 package com.cab.easi.easicab;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.os.AsyncTask;
@@ -292,5 +293,15 @@ public class MapActivity extends FragmentActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_spash_screen, menu);
         return true;
+    }
+
+
+    @Override
+    public void onBackPressed() {
+        // TODO Auto-generated method stub
+        Intent intent= new Intent(this, MainHomeActivity.class);
+        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+        super.onBackPressed();
     }
 }

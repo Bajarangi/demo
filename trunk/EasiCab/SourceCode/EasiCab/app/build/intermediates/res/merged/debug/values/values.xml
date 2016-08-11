@@ -24,12 +24,17 @@
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="app_background">#ff1c4c7a</color>
+    <color name="app_black">#0F2035</color>
     <color name="app_boarder">#eeeeee</color>
     <color name="app_header">#829bae</color>
+    <color name="app_orange_background">#F29902</color>
     <color name="app_text">#FFFFFF</color>
     <color name="app_textBig">#00FFFFFF</color>
-    <color name="app_text_grey">#00FFFFFF</color>
+    <color name="app_text_col">#0F2035</color>
+    <color name="app_white">#ffffff</color>
     <color name="app_yellow">#f4d45b</color>
+    <color name="app_yellow_background">#ECCC36</color>
+    <color name="application_background">#e8e8e7</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -235,9 +240,20 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="divider_height">1.5dp</dimen>
+    <dimen name="drwaerwidth">230dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="img_height">38dp</dimen>
+    <dimen name="img_padding">4dp</dimen>
+    <dimen name="img_width">35dp</dimen>
+    <dimen name="ldrawer_barSize">18dp</dimen>
+    <dimen name="ldrawer_drawableSize">40dp</dimen>
+    <dimen name="ldrawer_gapBetweenBars">3dp</dimen>
+    <dimen name="ldrawer_middleBarArrowSize">16dp</dimen>
+    <dimen name="ldrawer_thickness">2dp</dimen>
+    <dimen name="ldrawer_topBottomBarArrowSize">11dp</dimen>
     <dimen name="mr_media_route_controller_art_max_height">320dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -252,6 +268,9 @@
     <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
     <dimen name="place_autocomplete_progress_size">24dp</dimen>
     <dimen name="place_autocomplete_separator_start">72dp</dimen>
+    <dimen name="textpadding">10dp</dimen>
+    <dimen name="textsize">22sp</dimen>
+    <dimen name="view_margin">6dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -343,6 +362,8 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
     <string name="hello_world">Hello world!</string>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>

@@ -4,12 +4,12 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -24,16 +24,16 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -60,16 +60,16 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
@@ -96,10 +96,6 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
@@ -124,28 +120,28 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -154,10 +150,6 @@
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greybackground.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\src\\main\\res\\drawable\\greybackground.xml"
-    },
-    {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
@@ -188,12 +180,12 @@
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
@@ -210,10 +202,6 @@
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
         "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
-    },
-    {
-        "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "D:\\EASi_SVN\\EASi_App-POC\\trunk\\EasiCab\\SourceCode\\EasiCab\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",

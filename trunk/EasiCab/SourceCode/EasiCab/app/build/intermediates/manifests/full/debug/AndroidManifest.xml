@@ -44,8 +44,7 @@
         </activity>
         <activity
             android:name="com.cab.easi.easicab.MapActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name" />
         <activity
             android:name="com.cab.easi.easicab.LoginActivity"
             android:label="@string/app_name" >
@@ -57,16 +56,16 @@
         </activity>
         <activity
             android:name="com.cab.easi.easicab.RegisterActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name" />
         <activity
             android:name="com.cab.easi.easicab.SelectRole"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name" />
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyA_uc7PE5SY09XngqqJmMGueeJ506dbP5A" />
+
+        <activity android:name="com.cab.easi.easicab.MainHomeActivity" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
