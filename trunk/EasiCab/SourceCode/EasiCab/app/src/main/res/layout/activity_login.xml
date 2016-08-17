@@ -32,15 +32,16 @@
         <!-- Footer Start -->
         <LinearLayout android:id="@+id/footer"
             android:layout_width="fill_parent"
-            android:layout_height="90dip"
-            android:layout_alignParentBottom="true">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dip"
+            android:layout_marginBottom="0dip"
+            android:layout_below="@+id/mainLayout"
+            >
 
             <!-- Link to Registration Screen -->
             <TextView android:id="@+id/link_to_register"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dip"
-                android:layout_marginBottom="20dip"
                 android:text="New to Easi? Register here"
                 android:gravity="center"
                 android:textSize="20dip"
@@ -51,7 +52,7 @@
 
         <!-- Login Form -->
         <LinearLayout
-            xmlns:android="http://schemas.android.com/apk/res/android"
+           android:id="@+id/mainLayout"
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
