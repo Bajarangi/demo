@@ -16,7 +16,7 @@ import com.EASiCabs.DataObjects.UserDataObject;
 
 public class EmailOperation {
 	private static final String emailUserName = "rsaraf@easi.com";
-	private static final String emailUserPassword = "123QWEasdZXC!";
+	private static final String emailUserPassword = "xyz";
 
 	private Properties properties = null;
 
