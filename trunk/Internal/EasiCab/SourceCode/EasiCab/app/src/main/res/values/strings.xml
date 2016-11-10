@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EasiCab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Common-->
+    <string name="Submit">Submit</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <!-- SelectRole-->
+    <string name="Role_One">Admin</string>
+    <string name="Role_two">Cab Driver</string>
+    <string name="Role_three">Employee</string>
+</resources>
